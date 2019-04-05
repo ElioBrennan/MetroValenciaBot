@@ -1,10 +1,19 @@
+// IMPORT
 const config = require('./config.json');
+const Telegraf = require('telegraf');
+const fs = require('fs');
+
+// CONSTANTS
 const token = config.token;
-const Telegraf = require ('telegraf');
 const bot = new Telegraf(token);
 
-bot.start((ctx) => ctx.reply('Welcome'))
-bot.help((ctx) => ctx.reply('Send me a sticker'))
-bot.on('sticker', (ctx) => ctx.reply('👍'))
-bot.hears('hi', (ctx) => ctx.reply('Hey there'))
+// COMMANDS
+bot.start((ctx) => ctx.reply('EN PROCESO'));
+bot.help((ctx) => ctx.reply('EN PROCESO'));
+fs.readdirSync("./commands/").forEach((file) => {
+    let commandFunction = require(`./commands/${file}`);
+    let commandName = file.split(".")[0];
+    bot.command(commandName, (...args) => commandFunction.run(bot, ...args));
+});
 bot.launch();
+ctx.sen
