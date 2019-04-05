@@ -1,0 +1,14 @@
+{
+  "name": "metrovalenciabot",
+  "version": "1.0.0",
+  "description": "A Telegram bot about Metro Valencia",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eliobrennan",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.28.0"
+  }
+}
