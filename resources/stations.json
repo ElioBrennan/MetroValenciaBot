@@ -2,539 +2,673 @@
     "stations": [
         {
             "id": 1,
-            "name": "Rafelbunyol"
+            "name": "Rafelbunyol",
+            "area": "B"
         },
         {
             "id": 2,
-            "name": "La Pobla de Farnals"
+            "name": "La Pobla de Farnals",
+            "area": "B"
         },
         {
             "id": 3,
-            "name": "Massamagrell"
+            "name": "Massamagrell",
+            "area": "B"
         },
         {
             "id": 4,
-            "name": "Museros"
+            "name": "Museros",
+            "area": "B"
         },
         {
             "id": 5,
-            "name": "Albalat dels Sorells"
+            "name": "Albalat dels Sorells",
+            "area": "B"
         },
         {
             "id": 6,
-            "name": "Foios"
+            "name": "Foios",
+            "area": "B"
         },
         {
             "id": 7,
-            "name": "Meliana"
+            "name": "Meliana",
+            "area": "B"
         },
         {
             "id": 8,
-            "name": "Almàssera"
+            "name": "Almàssera",
+            "area": "B"
         },
         {
             "id": 9,
-            "name": "Alboraya-Peris Aragó"
+            "name": "Alboraya-Peris Aragó",
+            "area": "A"
         },
         {
             "id": 10,
-            "name": "Alboraya-Palmaret"
+            "name": "Alboraya-Palmaret",
+            "area": "A"
         },
         {
             "id": 11,
-            "name": "Machado"
+            "name": "Machado",
+            "area": "A"
         },
         {
             "id": 12,
-            "name": "Benimaclet"
+            "name": "Benimaclet",
+            "area": "A"
         },
         {
             "id": 13,
-            "name": "Facultats"
+            "name": "Facultats",
+            "area": "A"
         },
         {
             "id": 14,
-            "name": "Alameda"
+            "name": "Alameda",
+            "area": "A"
         },
         {
             "id": 15,
-            "name": "Colón"
+            "name": "Colón",
+            "area": "A"
         },
         {
             "id": 16,
-            "name": "Xàtiva"
+            "name": "Xàtiva",
+            "area": "A"
         },
         {
             "id": 17,
-            "name": "Àngel Guimerà"
+            "name": "Àngel Guimerà",
+            "area": "A"
         },
         {
             "id": 18,
-            "name": "Av. del Cid"
+            "name": "Av. del Cid",
+            "area": "A"
         },
         {
             "id": 19,
-            "name": "Nou d\"Octubre"
+            "name": "Nou d\"Octubre",
+            "area": "A"
         },
         {
             "id": 20,
-            "name": "Mislata"
+            "name": "Mislata",
+            "area": "A"
         },
         {
             "id": 21,
-            "name": "Mislata - Almassil"
+            "name": "Mislata - Almassil",
+            "area": "A"
         },
         {
             "id": 22,
-            "name": "Ayora"
+            "name": "Ayora",
+            "area": "A"
         },
         {
             "id": 23,
-            "name": "Amistat-Casa de Salud"
+            "name": "Amistat-Casa de Salud",
+            "area": "A"
         },
         {
             "id": 24,
-            "name": "Aragón"
+            "name": "Aragón",
+            "area": "A"
         },
         {
             "id": 25,
-            "name": "Jesús"
+            "name": "Jesús",
+            "area": "A"
         },
         {
             "id": 26,
-            "name": "Patraix"
+            "name": "Patraix",
+            "area": "A"
         },
         {
             "id": 27,
-            "name": "Safranar"
+            "name": "Safranar",
+            "area": "A"
         },
         {
             "id": 28,
-            "name": "Sant Isidre"
+            "name": "Sant Isidre",
+            "area": "A"
         },
         {
             "id": 30,
-            "name": "València Sud"
+            "name": "València Sud",
+            "area": "A"
         },
         {
             "id": 31,
-            "name": "Paiporta"
+            "name": "Paiporta",
+            "area": "B"
         },
         {
             "id": 32,
-            "name": "Picanya"
+            "name": "Picanya",
+            "area": "B"
         },
         {
             "id": 33,
-            "name": "Torrent"
+            "name": "Torrent",
+            "area": "B"
         },
         {
             "id": 34,
-            "name": "Torrent Avinguda"
+            "name": "Torrent Avinguda",
+            "area": "B"
         },
         {
             "id": 35,
-            "name": "Villanueva de Castellón"
+            "name": "Villanueva de Castellón",
+            "area": "D"
         },
         {
             "id": 36,
-            "name": "Alberic"
+            "name": "Alberic",
+            "area": "D"
         },
         {
             "id": 37,
-            "name": "Massalavés"
+            "name": "Massalavés",
+            "area": "D"
         },
         {
             "id": 38,
-            "name": "Montortal"
+            "name": "Montortal",
+            "area": "D"
         },
         {
             "id": 39,
-            "name": "L\"Alcúdia"
+            "name": "L\"Alcúdia",
+            "area": "C"
         },
         {
             "id": 40,
-            "name": "Benimodo"
+            "name": "Benimodo",
+            "area": "C"
         },
         {
             "id": 41,
-            "name": "Carlet"
+            "name": "Carlet",
+            "area": "C"
         },
         {
             "id": 42,
-            "name": "Ausiàs March"
+            "name": "Ausiàs March",
+            "area": "C"
         },
         {
             "id": 43,
-            "name": "Alginet"
+            "name": "Alginet",
+            "area": "C"
         },
         {
             "id": 44,
-            "name": "Font Almaguer"
+            "name": "Font Almaguer",
+            "area": "C"
         },
         {
             "id": 45,
-            "name": "Espioca"
+            "name": "Espioca",
+            "area": "C"
         },
         {
             "id": 46,
-            "name": "Omet"
+            "name": "Omet",
+            "area": "C"
         },
         {
             "id": 47,
-            "name": "Picassent"
+            "name": "Picassent",
+            "area": "C"
         },
         {
             "id": 48,
-            "name": "Sant Ramon"
+            "name": "Sant Ramon",
+            "area": "C"
         },
         {
             "id": 49,
-            "name": "Realón"
+            "name": "Realón",
+            "area": "C"
         },
         {
             "id": 50,
-            "name": "Col·legi El Vedat"
+            "name": "Col·legi El Vedat",
+            "area": "B"
         },
         {
             "id": 51,
-            "name": "Pl. Espanya"
+            "name": "Pl. Espanya",
+            "area": "A"
         },
         {
             "id": 52,
-            "name": "Túria"
+            "name": "Túria",
+            "area": "A"
         },
         {
             "id": 53,
-            "name": "Campanar"
+            "name": "Campanar",
+            "area": "A"
         },
         {
             "id": 54,
-            "name": "Beniferri"
+            "name": "Beniferri",
+            "area": "A"
         },
         {
             "id": 55,
-            "name": "Empalme"
+            "name": "Empalme",
+            "area": "A"
         },
         {
             "id": 56,
-            "name": "Canterería"
+            "name": "Canterería",
+            "area": "A"
         },
         {
             "id": 57,
-            "name": "Benimàmet"
+            "name": "Benimàmet",
+            "area": "A"
         },
         {
             "id": 58,
-            "name": "Les Carolines/Fira"
+            "name": "Les Carolines/Fira",
+            "area": "A"
         },
         {
             "id": 59,
-            "name": "Campament"
+            "name": "Campament",
+            "area": "B"
         },
         {
             "id": 60,
-            "name": "Paterna"
+            "name": "Paterna",
+            "area": "B"
         },
         {
             "id": 61,
-            "name": "Santa Rita"
+            "name": "Santa Rita",
+            "area": "B"
         },
         {
             "id": 62,
-            "name": "Fuente del Jarro"
+            "name": "Fuente del Jarro",
+            "area": "B"
         },
         {
             "id": 63,
-            "name": "La Canyada"
+            "name": "La Canyada",
+            "area": "B"
         },
         {
             "id": 64,
-            "name": "La Vallesa"
+            "name": "La Vallesa",
+            "area": "B"
         },
         {
             "id": 65,
-            "name": "Entrepins"
+            "name": "Entrepins",
+            "area": "C"
         },
         {
             "id": 66,
-            "name": "Montesol"
+            "name": "Montesol",
+            "area": "C"
         },
         {
             "id": 67,
-            "name": "L\"Eliana"
+            "name": "L\"Eliana",
+            "area": "C"
         },
         {
             "id": 68,
-            "name": "La Pobla de Vallbona"
+            "name": "La Pobla de Vallbona",
+            "area": "C"
         },
         {
             "id": 69,
-            "name": "Benaguasil 1r"
+            "name": "Benaguasil 1r",
+            "area": "C"
         },
         {
             "id": 70,
-            "name": "Benaguasil 2n"
+            "name": "Benaguasil 2n",
+            "area": "C"
         },
         {
             "id": 71,
-            "name": "Llíria"
+            "name": "Llíria",
+            "area": "C"
         },
         {
             "id": 72,
-            "name": "Burjassot"
+            "name": "Burjassot",
+            "area": "B"
         },
         {
             "id": 73,
-            "name": "Burjassot - Godella"
+            "name": "Burjassot - Godella",
+            "area": "B"
         },
         {
             "id": 74,
-            "name": "Godella"
+            "name": "Godella",
+            "area": "B"
         },
         {
             "id": 75,
-            "name": "Rocafort"
+            "name": "Rocafort",
+            "area": "B"
         },
         {
             "id": 76,
-            "name": "Massarrojos"
+            "name": "Massarrojos",
+            "area": "B"
         },
         {
             "id": 77,
-            "name": "Moncada - Alfara"
+            "name": "Moncada - Alfara",
+            "area": "B"
         },
         {
             "id": 78,
-            "name": "Seminari - CEU"
+            "name": "Seminari - CEU",
+            "area": "B"
         },
         {
             "id": 79,
-            "name": "Masies"
+            "name": "Masies",
+            "area": "B"
         },
         {
             "id": 80,
-            "name": "Horta Vella"
+            "name": "Horta Vella",
+            "area": "C"
         },
         {
             "id": 81,
-            "name": "Eugenia Viñes"
+            "name": "Eugenia Viñes",
+            "area": "A"
         },
         {
             "id": 82,
-            "name": "Les Arenes"
+            "name": "Les Arenes",
+            "area": "A"
         },
         {
             "id": 83,
-            "name": "Dr. Lluch"
+            "name": "Dr. Lluch",
+            "area": "A"
         },
         {
             "id": 84,
-            "name": "La Marina"
+            "name": "La Marina",
+            "area": "A"
         },
         {
             "id": 85,
-            "name": "La Cadena"
+            "name": "La Cadena",
+            "area": "A"
         },
         {
             "id": 86,
-            "name": "Serrería"
+            "name": "Serrería",
+            "area": "A"
         },
         {
             "id": 87,
-            "name": "Tarongers"
+            "name": "Tarongers",
+            "area": "A"
         },
         {
             "id": 88,
-            "name": "La Carrasca"
+            "name": "La Carrasca",
+            "area": "A"
         },
         {
             "id": 89,
-            "name": "Universitat Politècnica"
+            "name": "Universitat Politècnica",
+            "area": "A"
         },
         {
             "id": 90,
-            "name": "Vicente Zaragozá"
+            "name": "Vicente Zaragozá",
+            "area": "A"
         },
         {
             "id": 91,
-            "name": "Primat Reig"
+            "name": "Primat Reig",
+            "area": "A"
         },
         {
             "id": 92,
-            "name": "Pont de Fusta"
+            "name": "Pont de Fusta",
+            "area": "A"
         },
         {
             "id": 93,
-            "name": "Sagunt"
+            "name": "Sagunt",
+            "area": "A"
         },
         {
             "id": 94,
-            "name": "Reus"
+            "name": "Reus",
+            "area": "A"
         },
         {
             "id": 95,
-            "name": "Marxalenes"
+            "name": "Marxalenes",
+            "area": "A"
         },
         {
             "id": 96,
-            "name": "Trànsits"
+            "name": "Trànsits",
+            "area": "A"
         },
         {
             "id": 97,
-            "name": "Benicalap"
+            "name": "Benicalap",
+            "area": "A"
         },
         {
             "id": 98,
-            "name": "Garbí"
+            "name": "Garbí",
+            "area": "A"
         },
         {
             "id": 99,
-            "name": "Florista"
+            "name": "Florista",
+            "area": "A"
         },
         {
             "id": 100,
-            "name": "Palau de Congressos"
+            "name": "Palau de Congressos",
+            "area": "A"
         },
         {
             "id": 101,
-            "name": "La Granja"
+            "name": "La Granja",
+            "area": "A"
         },
         {
             "id": 102,
-            "name": "Sant Joan"
+            "name": "Sant Joan",
+            "area": "A"
         },
         {
             "id": 103,
-            "name": "Campus"
+            "name": "Campus",
+            "area": "A"
         },
         {
             "id": 104,
-            "name": "Vicent Andrés Estellés"
+            "name": "Vicent Andrés Estellés",
+            "area": "A"
         },
         {
             "id": 105,
-            "name": "TVV"
+            "name": "TVV",
+            "area": "A"
         },
         {
             "id": 106,
-            "name": "Fira València"
+            "name": "Fira València",
+            "area": "A"
         },
         {
             "id": 107,
-            "name": "Bétera"
+            "name": "Bétera",
+            "area": "C"
         },
         {
             "id": 108,
-            "name": "El Clot"
+            "name": "El Clot",
+            "area": "C"
         },
         {
             "id": 109,
-            "name": "Bailén"
+            "name": "Bailén",
+            "area": "A"
         },
         {
             "id": 110,
-            "name": "Mas del Rosari"
+            "name": "Mas del Rosari",
+            "area": "B"
         },
         {
             "id": 111,
-            "name": "La Coma"
+            "name": "La Coma",
+            "area": "B"
         },
         {
             "id": 112,
-            "name": "Tomás y Valiente"
+            "name": "Tomás y Valiente",
+            "area": "B"
         },
         {
             "id": 113,
-            "name": "Santa Gemma - Parc Científic UV"
+            "name": "Santa Gemma - Parc Científic UV",
+            "area": "B"
         },
         {
             "id": 114,
-            "name": "Ll. Llarga - Terramelar"
+            "name": "Ll. Llarga - Terramelar",
+            "area": "B"
         },
         {
             "id": 115,
-            "name": "Marítim - Serrería"
+            "name": "Marítim - Serrería",
+            "area": "A"
         },
         {
             "id": 117,
-            "name": "Quart de Poblet"
+            "name": "Quart de Poblet",
+            "area": "B"
         },
         {
             "id": 118,
-            "name": "Salt de l\"Aigua"
+            "name": "Salt de l\"Aigua",
+            "area": "B"
         },
         {
             "id": 119,
-            "name": "Manises"
+            "name": "Manises",
+            "area": "B"
         },
         {
             "id": 120,
-            "name": "Rosas"
+            "name": "Rosas",
+            "area": "B"
         },
         {
             "id": 122,
-            "name": "Francesc Cubells"
+            "name": "Francesc Cubells",
+            "area": "A"
         },
         {
             "id": 123,
-            "name": "Grau - Canyamelar"
+            "name": "Grau - Canyamelar",
+            "area": "A"
         },
         {
             "id": 126,
-            "name": "Marina Reial Joan Carles I"
+            "name": "Marina Reial Joan Carles I",
+            "area": "A"
         },
         {
             "id": 127,
-            "name": "Mediterrani"
+            "name": "Mediterrani",
+            "area": "A"
         },
         {
             "id": 128,
-            "name": "Alfauir"
+            "name": "Alfauir",
+            "area": "A"
         },
         {
             "id": 129,
-            "name": "Orriols"
+            "name": "Orriols",
+            "area": "A"
         },
         {
             "id": 130,
-            "name": "Estadi del Llevant"
+            "name": "Estadi del Llevant",
+            "area": "A"
         },
         {
             "id": 131,
-            "name": "Sant Miquel dels Reis"
+            "name": "Sant Miquel dels Reis",
+            "area": "A"
         },
         {
             "id": 132,
-            "name": "Tossal del Rei"
+            "name": "Tossal del Rei",
+            "area": "A"
         },
         {
             "id": 183,
-            "name": "La Cova"
+            "name": "La Cova",
+            "area": "B"
         },
         {
             "id": 184,
-            "name": "La Presa"
+            "name": "La Presa",
+            "area": "B"
         },
         {
             "id": 185,
-            "name": "Masia de Traver"
+            "name": "Masia de Traver",
+            "area": "C"
         },
         {
             "id": 186,
-            "name": "Riba-roja de Túria"
+            "name": "Riba-roja de Túria",
+            "area": "C"
         },
         {
             "id": 188,
-            "name": "València la Vella"
+            "name": "València la Vella",
+            "area": "C"
         },
         {
             "id": 200,
-            "name": "Faitanar"
+            "name": "Faitanar",
+            "area": "B"
         },
         {
             "id": 201,
-            "name": "Torre del Virrei"
+            "name": "Torre del Virrei",
+            "area": "C"
         }
     ]
 }
