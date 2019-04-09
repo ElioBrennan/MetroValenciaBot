@@ -16,4 +16,3 @@ fs.readdirSync("./commands/").forEach((file) => {
     bot.command(commandName, (...args) => commandFunction.run(bot, ...args));
 });
 bot.launch();
-ctx.sen

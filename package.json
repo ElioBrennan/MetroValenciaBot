@@ -9,6 +9,7 @@
   "author": "eliobrennan",
   "license": "ISC",
   "dependencies": {
+    "request": "^2.88.0",
     "telegraf": "^3.28.0"
   }
 }

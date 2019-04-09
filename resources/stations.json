@@ -1,0 +1,540 @@
+{
+    "stations": [
+        {
+            "id": 1,
+            "name": "Rafelbunyol"
+        },
+        {
+            "id": 2,
+            "name": "La Pobla de Farnals"
+        },
+        {
+            "id": 3,
+            "name": "Massamagrell"
+        },
+        {
+            "id": 4,
+            "name": "Museros"
+        },
+        {
+            "id": 5,
+            "name": "Albalat dels Sorells"
+        },
+        {
+            "id": 6,
+            "name": "Foios"
+        },
+        {
+            "id": 7,
+            "name": "Meliana"
+        },
+        {
+            "id": 8,
+            "name": "Almàssera"
+        },
+        {
+            "id": 9,
+            "name": "Alboraya-Peris Aragó"
+        },
+        {
+            "id": 10,
+            "name": "Alboraya-Palmaret"
+        },
+        {
+            "id": 11,
+            "name": "Machado"
+        },
+        {
+            "id": 12,
+            "name": "Benimaclet"
+        },
+        {
+            "id": 13,
+            "name": "Facultats"
+        },
+        {
+            "id": 14,
+            "name": "Alameda"
+        },
+        {
+            "id": 15,
+            "name": "Colón"
+        },
+        {
+            "id": 16,
+            "name": "Xàtiva"
+        },
+        {
+            "id": 17,
+            "name": "Àngel Guimerà"
+        },
+        {
+            "id": 18,
+            "name": "Av. del Cid"
+        },
+        {
+            "id": 19,
+            "name": "Nou d\"Octubre"
+        },
+        {
+            "id": 20,
+            "name": "Mislata"
+        },
+        {
+            "id": 21,
+            "name": "Mislata - Almassil"
+        },
+        {
+            "id": 22,
+            "name": "Ayora"
+        },
+        {
+            "id": 23,
+            "name": "Amistat-Casa de Salud"
+        },
+        {
+            "id": 24,
+            "name": "Aragón"
+        },
+        {
+            "id": 25,
+            "name": "Jesús"
+        },
+        {
+            "id": 26,
+            "name": "Patraix"
+        },
+        {
+            "id": 27,
+            "name": "Safranar"
+        },
+        {
+            "id": 28,
+            "name": "Sant Isidre"
+        },
+        {
+            "id": 30,
+            "name": "València Sud"
+        },
+        {
+            "id": 31,
+            "name": "Paiporta"
+        },
+        {
+            "id": 32,
+            "name": "Picanya"
+        },
+        {
+            "id": 33,
+            "name": "Torrent"
+        },
+        {
+            "id": 34,
+            "name": "Torrent Avinguda"
+        },
+        {
+            "id": 35,
+            "name": "Villanueva de Castellón"
+        },
+        {
+            "id": 36,
+            "name": "Alberic"
+        },
+        {
+            "id": 37,
+            "name": "Massalavés"
+        },
+        {
+            "id": 38,
+            "name": "Montortal"
+        },
+        {
+            "id": 39,
+            "name": "L\"Alcúdia"
+        },
+        {
+            "id": 40,
+            "name": "Benimodo"
+        },
+        {
+            "id": 41,
+            "name": "Carlet"
+        },
+        {
+            "id": 42,
+            "name": "Ausiàs March"
+        },
+        {
+            "id": 43,
+            "name": "Alginet"
+        },
+        {
+            "id": 44,
+            "name": "Font Almaguer"
+        },
+        {
+            "id": 45,
+            "name": "Espioca"
+        },
+        {
+            "id": 46,
+            "name": "Omet"
+        },
+        {
+            "id": 47,
+            "name": "Picassent"
+        },
+        {
+            "id": 48,
+            "name": "Sant Ramon"
+        },
+        {
+            "id": 49,
+            "name": "Realón"
+        },
+        {
+            "id": 50,
+            "name": "Col·legi El Vedat"
+        },
+        {
+            "id": 51,
+            "name": "Pl. Espanya"
+        },
+        {
+            "id": 52,
+            "name": "Túria"
+        },
+        {
+            "id": 53,
+            "name": "Campanar"
+        },
+        {
+            "id": 54,
+            "name": "Beniferri"
+        },
+        {
+            "id": 55,
+            "name": "Empalme"
+        },
+        {
+            "id": 56,
+            "name": "Canterería"
+        },
+        {
+            "id": 57,
+            "name": "Benimàmet"
+        },
+        {
+            "id": 58,
+            "name": "Les Carolines/Fira"
+        },
+        {
+            "id": 59,
+            "name": "Campament"
+        },
+        {
+            "id": 60,
+            "name": "Paterna"
+        },
+        {
+            "id": 61,
+            "name": "Santa Rita"
+        },
+        {
+            "id": 62,
+            "name": "Fuente del Jarro"
+        },
+        {
+            "id": 63,
+            "name": "La Canyada"
+        },
+        {
+            "id": 64,
+            "name": "La Vallesa"
+        },
+        {
+            "id": 65,
+            "name": "Entrepins"
+        },
+        {
+            "id": 66,
+            "name": "Montesol"
+        },
+        {
+            "id": 67,
+            "name": "L\"Eliana"
+        },
+        {
+            "id": 68,
+            "name": "La Pobla de Vallbona"
+        },
+        {
+            "id": 69,
+            "name": "Benaguasil 1r"
+        },
+        {
+            "id": 70,
+            "name": "Benaguasil 2n"
+        },
+        {
+            "id": 71,
+            "name": "Llíria"
+        },
+        {
+            "id": 72,
+            "name": "Burjassot"
+        },
+        {
+            "id": 73,
+            "name": "Burjassot - Godella"
+        },
+        {
+            "id": 74,
+            "name": "Godella"
+        },
+        {
+            "id": 75,
+            "name": "Rocafort"
+        },
+        {
+            "id": 76,
+            "name": "Massarrojos"
+        },
+        {
+            "id": 77,
+            "name": "Moncada - Alfara"
+        },
+        {
+            "id": 78,
+            "name": "Seminari - CEU"
+        },
+        {
+            "id": 79,
+            "name": "Masies"
+        },
+        {
+            "id": 80,
+            "name": "Horta Vella"
+        },
+        {
+            "id": 81,
+            "name": "Eugenia Viñes"
+        },
+        {
+            "id": 82,
+            "name": "Les Arenes"
+        },
+        {
+            "id": 83,
+            "name": "Dr. Lluch"
+        },
+        {
+            "id": 84,
+            "name": "La Marina"
+        },
+        {
+            "id": 85,
+            "name": "La Cadena"
+        },
+        {
+            "id": 86,
+            "name": "Serrería"
+        },
+        {
+            "id": 87,
+            "name": "Tarongers"
+        },
+        {
+            "id": 88,
+            "name": "La Carrasca"
+        },
+        {
+            "id": 89,
+            "name": "Universitat Politècnica"
+        },
+        {
+            "id": 90,
+            "name": "Vicente Zaragozá"
+        },
+        {
+            "id": 91,
+            "name": "Primat Reig"
+        },
+        {
+            "id": 92,
+            "name": "Pont de Fusta"
+        },
+        {
+            "id": 93,
+            "name": "Sagunt"
+        },
+        {
+            "id": 94,
+            "name": "Reus"
+        },
+        {
+            "id": 95,
+            "name": "Marxalenes"
+        },
+        {
+            "id": 96,
+            "name": "Trànsits"
+        },
+        {
+            "id": 97,
+            "name": "Benicalap"
+        },
+        {
+            "id": 98,
+            "name": "Garbí"
+        },
+        {
+            "id": 99,
+            "name": "Florista"
+        },
+        {
+            "id": 100,
+            "name": "Palau de Congressos"
+        },
+        {
+            "id": 101,
+            "name": "La Granja"
+        },
+        {
+            "id": 102,
+            "name": "Sant Joan"
+        },
+        {
+            "id": 103,
+            "name": "Campus"
+        },
+        {
+            "id": 104,
+            "name": "Vicent Andrés Estellés"
+        },
+        {
+            "id": 105,
+            "name": "TVV"
+        },
+        {
+            "id": 106,
+            "name": "Fira València"
+        },
+        {
+            "id": 107,
+            "name": "Bétera"
+        },
+        {
+            "id": 108,
+            "name": "El Clot"
+        },
+        {
+            "id": 109,
+            "name": "Bailén"
+        },
+        {
+            "id": 110,
+            "name": "Mas del Rosari"
+        },
+        {
+            "id": 111,
+            "name": "La Coma"
+        },
+        {
+            "id": 112,
+            "name": "Tomás y Valiente"
+        },
+        {
+            "id": 113,
+            "name": "Santa Gemma - Parc Científic UV"
+        },
+        {
+            "id": 114,
+            "name": "Ll. Llarga - Terramelar"
+        },
+        {
+            "id": 115,
+            "name": "Marítim - Serrería"
+        },
+        {
+            "id": 117,
+            "name": "Quart de Poblet"
+        },
+        {
+            "id": 118,
+            "name": "Salt de l\"Aigua"
+        },
+        {
+            "id": 119,
+            "name": "Manises"
+        },
+        {
+            "id": 120,
+            "name": "Rosas"
+        },
+        {
+            "id": 122,
+            "name": "Francesc Cubells"
+        },
+        {
+            "id": 123,
+            "name": "Grau - Canyamelar"
+        },
+        {
+            "id": 126,
+            "name": "Marina Reial Joan Carles I"
+        },
+        {
+            "id": 127,
+            "name": "Mediterrani"
+        },
+        {
+            "id": 128,
+            "name": "Alfauir"
+        },
+        {
+            "id": 129,
+            "name": "Orriols"
+        },
+        {
+            "id": 130,
+            "name": "Estadi del Llevant"
+        },
+        {
+            "id": 131,
+            "name": "Sant Miquel dels Reis"
+        },
+        {
+            "id": 132,
+            "name": "Tossal del Rei"
+        },
+        {
+            "id": 183,
+            "name": "La Cova"
+        },
+        {
+            "id": 184,
+            "name": "La Presa"
+        },
+        {
+            "id": 185,
+            "name": "Masia de Traver"
+        },
+        {
+            "id": 186,
+            "name": "Riba-roja de Túria"
+        },
+        {
+            "id": 188,
+            "name": "València la Vella"
+        },
+        {
+            "id": 200,
+            "name": "Faitanar"
+        },
+        {
+            "id": 201,
+            "name": "Torre del Virrei"
+        }
+    ]
+}
