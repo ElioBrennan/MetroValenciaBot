@@ -9,6 +9,7 @@
   "author": "eliobrennan",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "request": "^2.88.0",
     "string-similarity": "^3.0.0",
     "telegraf": "^3.28.0"
