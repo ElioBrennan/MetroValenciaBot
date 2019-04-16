@@ -20,7 +20,7 @@ module.exports = {
                     best_station = station;
                 }
             });
-            return best_station.id;
+            return best_station;
         } else {
             return undefined;
         }
