@@ -25,8 +25,14 @@ exports.run = function (bot, ctx) {
     } else if (similarStations.length == 0) {
         ctx.reply("No he encontrado ninguna estación con este nombre :(")
     } else {
-        var text = "He encontrado varias coincidencias con tu búsqueda. Por favor, indícame a que estación te refieres: ";
-        showStations(text, similarStations);
+        ctx.reply("He encontrado varias coincidencias con tu búsqueda:");
+        showStations(similarStations);
+    }
+
+    function showStations(similarStations) {
+        similarStations.forEach(station => {
+            showStationInfo(station);
+        });
     }
 
     function showStationInfo(station) {
@@ -34,19 +40,4 @@ exports.run = function (bot, ctx) {
             + "Línea/s: " + station.line + "\n"
             + "Zona: " + station.zone);
     }
-
-    function showStations(text, similarStations) {
-        var buttons = [];
-        similarStations.forEach(station => {
-            buttons.push(Markup.callbackButton(station.name, JSON.stringify(station)));
-        });
-        return ctx.reply(text,
-            Markup.inlineKeyboard(buttons).extra()
-        )
-    }
-
-    bot.on("callback_query", (queryInfo) => {
-        var station = JSON.parse(queryInfo.update.callback_query.data);
-        showStationInfo(station);
-    });
 }
