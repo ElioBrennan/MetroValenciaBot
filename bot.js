@@ -14,6 +14,10 @@ fs.readdirSync("./commands/").forEach((file) => {
     let commandName = file.split(".")[0];
     bot.command(commandName, (...args) => commandFunction.run(bot, ...args));
 });
+bot.on('location', (ctx, location) => {
+    console.log(location);
+    ctx.reply('Localización');
+});
 bot.launch();
 
 // Comprobación
