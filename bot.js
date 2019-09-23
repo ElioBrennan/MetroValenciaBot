@@ -2,7 +2,6 @@
 const config = require('./config.json');
 const Telegraf = require('telegraf');
 const fs = require('fs');
-
 // CONSTANTS
 const token = config.token;
 const bot = new Telegraf(token);
@@ -16,3 +15,6 @@ fs.readdirSync("./commands/").forEach((file) => {
     bot.command(commandName, (...args) => commandFunction.run(bot, ...args));
 });
 bot.launch();
+
+// Comprobación
+console.log("Bot ON");

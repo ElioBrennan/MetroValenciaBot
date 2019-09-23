@@ -1,8 +1,6 @@
 const command_utils = require('../utils/command.js');
 const accent_utils = require('../utils/accents.js');
 const stringSimilarity = require('string-similarity');
-const Extra = require('telegraf/extra');
-const Markup = require('telegraf/markup');
 
 var stationsFile = require('../resources/stations.json');
 var stations = stationsFile.stations;
